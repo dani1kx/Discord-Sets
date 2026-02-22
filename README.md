@@ -30,4 +30,4 @@ bun run src/index.ts
 ```
 
 ## 👨‍💻 Author
-Project created and developed by **dani1kx**
+Project created and developed by **[dani1kx](https://github.com/dani1kx)**
